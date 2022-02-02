@@ -1,0 +1,131 @@
+- name: 1990s action movie
+  desc: Any action movie made in the 90s. Usually gritty, with lots of guns, following the anxiety over the Big American Crime Wave.
+  examples: []
+
+- name: 2000s action movie with heavy CG
+  desc: Hey kid, we just got these thing called computers. Now we don't have to use miniatures for special effects ever again!
+  examples: []
+
+- name: Amazon Prime sci-fi
+  desc: Science fiction movies you can stream for free with an Amazon Prime subscription. They're always worse than they look.
+  examples: []
+
+- name: Ayn Rand film adaptation
+  desc: Teach your friends about the virtues of Objectivism, a fake philosophy that is surprisingly horny for experimental new types of steel.
+  examples: []
+
+- name: Bad 80s Sci-fi
+  desc: The plastic masks and cardboard sets have never looked worse (better?). Don't pay attention to the worldbuilding – it doesn't make sense.
+  examples: []
+
+- name: Bad Horror
+  desc: The modern slasher genre has been perfected. Go back to the roots when it... wasn't. Enjoy a movie with plodding pacing and absurd gore.
+  examples: []
+
+- name: Beloved kid's movie with poor critical reception
+  desc: You loved it when _you_ were a kid. As an adult, it doesn't hold up so well. Keep an eye out for over-the-top physical violence and insane adults.
+  examples: []
+
+- name: Blumhouse horror film
+  desc: Everyone's favorite budget horror company makes a profit on every movie. Their gain is your loss – Blumhouse films are a real roll of the dice.
+  examples: []
+
+- name: Bruce Willis (2010 and later)
+  desc: Sometime after _Die Hard_ and _Unbreakable,_ Bruce Willis burned every bridge. Now he makes movies for the paycheck and it shows.
+  examples: []
+
+- name: Chinese state propaganda
+  desc: You didn't know these movies existed. Are they actually good? Are the directors laundering money? The only certainty is that the spirit of Chinese nationalism will save the day.
+  examples: []
+
+- name: Christian movie
+  desc: Bring the light of Jesus into your heart. Christian films teach you that the one trick to personal fulfillment is to embrace patriarchy and total ideological isolation.
+  examples: []
+
+- name: Christmas movie
+  desc: You know the plots. The big-city news anchor lady finds herself back in her hometown in the sticks to accidentally find love. Bonus points if there's a Christian angle.
+  examples: []
+
+- name: Disaster movie
+  desc: The Earth is being hit by a meteor. No, wait, it's a tsunami. No, hang on, a tunnel is collapsing. Stuff is going wrong and you need to survive it.
+  examples: []
+
+- name: Disney/Pixar sequel
+  desc: Animated movies for kids are even better when they're straight to Disney+. Don't look too closely at the worldbuilding or it'll fall apart.
+  examples: []
+
+- name: Dwayne Johnson
+  desc: Everyone's favorite The Rock. You can't miss him on screen. And you can't hide him behind anything, either. We love our big wrestling boy.
+  examples: []
+
+- name: Hallmark movie
+  desc: Disgustingly saccharine plot with a life lesson at the end that will make your mom cry. These feel-good movies do their best to avoid upsetting your worldview.
+  examples: []
+
+- name: History Channel/Gaia TV conspiracy theory documentary
+  desc: Were ancient aliens in charge of the secret base run by Antarctic Nazis? Did we film the moon landing on a soundstage because it was too expensive to ship cameras to space? Learn why every conspiracy is true at the same time!
+  examples: []
+
+- name: Hulk Hogan
+  desc: Our other favorite wrestling boy. This one isn't so good at acting. Be sure to catch him as a side character in your favorite kids' movie sequels!
+  examples: []
+
+- name: James Bond (pre-Daniel Craig)
+  desc: Shaken, not stirred. Our favorite spy out of time is worse than you remember. Will Bond have to sleep with an entire chalet of Swiss ski bunnies? Or will he have to undergo experimental Japanesification surgery to keep his cover?
+  examples: []
+
+- name: Keanu Reeves
+  desc: No one is quite sure how Keanu survived his early action movies and made it to the present day as a beloved celebrity. We just love something about him.
+  examples: []
+
+- name: Lifetime movie
+  desc: My MOM is secretly selling drugs to my BOYFRIEND! My WIFE got a fake abortion because she was allergic to the FERTILITY medication! What a twist!
+  examples: []
+
+- name: Low-rated mainstream comedy
+  desc: Sometimes all the money in Hollywood can't make something funny. Buckle up for the longest ninety minutes you've ever watched.
+  examples: []
+
+- name: Martial arts movie with bad plot and great fights
+  desc: Let's be honest. We're not here for the plot. We're here for an Australian man fighting a Chinese man throwing kitchen cleavers at him.
+  examples: []
+
+- name: Modern blockbuster action schlock
+  desc: "The filler movies for the down months in the theaters. Use the trusted formula: one good actor, one by-the-numbers plot, three good explosions."
+  examples: []
+
+- name: Musical film adaptation
+  desc: You loved it in the theatre. So why wouldn't you love the movie? It turns out musicals don't hold up very well without the stage, the set, and the audience.
+  examples: []
+
+- name: Netflix sci-fi
+  desc: It's not great. Somehow, it's still better than Amazon Prime sci-fi. What's the secret? Better licensing deals? Better industry connections? Better taste?
+  examples: []
+
+- name: Nicholas Cage
+  desc: NOT THE BEEEEEEEES! The man, myth, and legend never gives a gig less than 100%. The movie might be horrendous, but the Cage Rage never lets you down.
+  examples: []
+
+- name: Obscure Japanese movie
+  desc: It only has four IMDB reviews and they're all glowing. If you're lucky, this will be your new cult favorite that no one's ever heard of.
+  examples: []
+
+- name: Something from Red Letter Media's Best of the Worst
+  desc: They put in the work so you don't have to. Throw the boys a little money on Patreon – they're why we're all here.
+  examples: []
+
+- name: Sylvester Stallone
+  desc: The legendary Sly has an impressive fictitious career as a boxer, post-Vietnam vigilante, and space pirate captain. But did you know he's also a racecar driver and a metaverse villain?
+  examples: []
+
+- name: Whatever is playing on Plex Free Movies
+  desc: You get what you pay for. Plex has lots of great free stuff from a decade back and a shocking number of Nic Cage films.
+  examples: []
+
+- name: Whatever is playing on Pluto TV
+  desc: Cablecutters, rejoice! Pluto TV brings you the nostalgic experience of having 250 channels and nothing to watch. And you even get to tune in 20 minutes after the start.
+  examples: []
+
+- name: "Whatever Netflix is pretending is a #1 nationwide hit"
+  desc: 70 million households watched Red Notice in the first month? Really? You sure they didn't stop after the first two minutes of the auto-playing preview?
+  examples: []
